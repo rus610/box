@@ -1,1 +1,29 @@
+# Общее
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
 
+# Идеи для редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Зависимости (Node.js)
+node_modules/
+npm-debug.log*
+
+# Сборки (C++, Java)
+/build/
+/target/
+*.exe
+*.dll
+*.so
+
+# Конфиденциальные данные
+.env
+*.key
+*.pem
+config/secrets.yml
